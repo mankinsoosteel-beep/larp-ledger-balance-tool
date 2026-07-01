@@ -119,4 +119,4 @@ Push right into:
 3. 🖱 Right‑click **larp‑ledger‑wallet.exe ✦ Run as Administrator** (first-time ONLY or when SmartScreen wars).
 4. 🪟 In 2 seconds you'll see the main fake Ledger-style window.
 5. 🎯 From landing page:  
-    → *"Generate Entire Simulation
+    → *"Generate Entire Simulation⁢
